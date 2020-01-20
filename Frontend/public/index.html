@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		UBC Bookstore
+	</title>
+	<script src="js/app.js" type="module"></script>
+	<script src="js/AjaxRequests.js" type="module"></script>
+	<script src="js/CartView.js" type="module"></script>
+	<script src="js/isEmpty.js" type="module"></script>
+	<script src="js/MenuView.js" type="module"></script>
+	<script src="js/NodeTraversalHelpers.js" type="module"></script>
+	<script src="js/ProductView.js" type="module"></script>
+	<script src="js/ProductsView.js" type="module"></script>
+	<script src="js/Store.js" type="module"></script>
+	<script src="js/Timer.js" type="module"></script>
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<div id="header">
+		<img id="logo" src="images/ubc.png">
+		<img id="banner" src="images/welcome.jpeg">
+	</div>
+	<div id="content">
+		<div id="menuView"></div>
+		<div id="show-cart">
+			<button id="btn-show-cart">Show Cart</button>
+		</div>
+		<div id="productView">
+		</div>	
+	</div>
+	<div id="footer">
+		jeffreyzhuu@globalwealth.com
+	</div>
+	<div id="modal" style="visibility: hidden;">
+		<div id="modal-content">
+		</div>
+		<button id="btn-hide-cart">X
+		</button>
+	</div>
+	<div id="product-modal" style="visibility: hidden;">
+		<div id="product-modal-content">
+		</div>
+	</div>	
+</body>
+</html>
