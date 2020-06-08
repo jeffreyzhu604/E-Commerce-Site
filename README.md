@@ -1,7 +1,7 @@
 # E-Commerce-Site
 
 # Motivation
-I was interested in learning about web application development and stumbled across a course from the University of British Columbia. The following course was, CPEN 400A: Building Modern Web Applications. I was not enrolled in the actual course, but I completed every lab and assignment as if I was. Every assignment, built on top of the previous one and the final outcome was a full-stack e-commerce web application.
+I was interested in learning about web application development and stumbled across a course from the University of British Columbia. The following course was, CPEN 400A: Building Modern Web Applications. I was not enrolled in the actual course so I do not have access to the solutions. However, I completed every lab and assignment as if I was a student of the course and used the provided test cases to check my solution. Every assignment, built on top of the previous one and the final outcome was a full-stack e-commerce web application.
 
 # Technology Stack
 - JavaScript
